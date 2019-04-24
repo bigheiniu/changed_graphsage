@@ -1,12 +1,8 @@
 # Custom
-/ml-100k
 /cora/*
 /pubmed-data/Pub*
 /models
 embedding_results
-*.json
-*.pkl
-*.csv
 *.idea
 *.png
 *.pdf
