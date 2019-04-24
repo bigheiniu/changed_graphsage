@@ -4,7 +4,6 @@
 /models
 embedding_results
 *.idea
-*.png
 *.pdf
 tmp/
 *.txt
