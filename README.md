@@ -21,7 +21,9 @@ In binary classification problem, GraphSage achieves about 80% accuracy.
 The distribution of movie category before DPP and after DPP:
 
 Before Determinantal Point Processes
+
 ![BeforeDpp](BeforeDpp.png)
 
 After Determinantal Point Processes
+
 ![AfterDpp](AfterDpp.png)
