@@ -15,3 +15,13 @@ pytorch >0.2 is required.
 #### Running examples
 
 I have changed the code to satisfy the movieLens dataset recommendation and I have two plans to do the embedding part so far.
+
+#### Evluation Metircs
+In binary classification problem, GraphSage achieves about 80% accuracy.
+The distribution of movie category before DPP and after DPP:
+
+Before Determinantal Point Processes
+![BeforeDpp](BeforeDpp.png)
+
+After Determinantal Point Processes
+![AfterDpp](AfterDpp.png)
